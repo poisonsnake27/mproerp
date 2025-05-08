@@ -1,0 +1,329 @@
+Tutoriales
+Preguntas frecuentes
+Manual de Instalación ManagementPro modo Servidor
+1-Manual de Instalación ManagementPro modo Servidor
+
+¡Bienvenido! Este documento explica el procedimiento para instalar el ManagementPro en el servidor.
+
+Este manual tiene como objetivo guiar al usuario paso a paso en el proceso de instalación del ManagementPro,
+dicha operación esta divida en 3 secciones:
+
+Preparar el equipo. En esta sección se muestran los requisitos necesarios para realizar una instalación exitosa del sistema.
+Instalar ManagementPro. En esta sección se muestran los pasos que se deben ejecutar para instalar el ManagementPro en el PC.
+Activar ManagementPro. En esta sección se muestran los pasos a seguir para activar el producto adquirido.
+
+Al final de este manual se le proporciona un video de apoyo sobre la preparación del equipo y la instalacion de ManagementPro.
+
+Requerimientos mínimos
+Espacio libre en disco duro mínimo 15GB
+Memoria RAM mínimo 3 GB en sistemas de 32 Bits y 6 GB en sistemas con 64 Bits
+Procesador mínimo Pentium
+Sistema operativo Windows, mínimo Windows 7 Professional SP1 32 bits
+Contar con un usuario que tenga permisos de Administrador
+Descargar el instalador del sitio de ManagementPro
+
+Preparar el Equipo
+Cambiar la configuración de control de cuenta de usuario.
+Instalar Internet Información Services (IIS).
+Instalar Microsoft SQL Server.
+Configuración Firewall de Windows
+
+Después de realizar la instalación de los programas y componentes de Windows que son necesarios para ejecutar el sistema de ManagementPro, ahora realizaremos la instalación de este.
+
+Instalar ManagementPro
+Ir a la ruta en donde se encuentra el instalador y dar clic derecho ejecutar como Administrador. Para efectos de este manual lo tenemos en el escritorio.
+
+2-<br><b>Instalar ManagementPro</b><br>
+
+Al iniciar la instalación nos arroja el Wizard de Instalación, en el que nos indica que se está preparando la instalación y debemos esperar unos minutos.
+
+3-<br>
+
+
+
+Al concluir el wizard en el que nos indica que se está preparando para la instalación nos sale una ventana de bienvenida, damos clic en Siguiente para continuar con la instalación.
+
+4-Manual de Instalación ManagementPro modo Servidor
+
+
+
+En la siguiente ventana capture los datos del usuario y la organización en los campos correspondientes, para continuar presione clic en el botón Siguiente.
+
+5-Manual de Instalación ManagementPro modo Servidor
+
+
+
+Posteriormente aparecerá la ventana Carpeta de destino donde se guardaran los archivos de instalación del sistema, si desea modificar la carpeta de destino lo puede realizar presionando el botón Cambiar (Nota: se recomienda utilizar la dirección predeterminada) para continuar presione el botón Siguiente.
+
+6-Manual de Instalación ManagementPro modo Servidor
+
+
+
+Ahora se mostrara la ventana de Tipo de instalación esta nos permite seleccionar alguno de los tres tipos de instalación. En este caso seleccionaremos la primera Opción y damos clic en Siguiente.
+
+7-Manual de Instalación ManagementPro modo Servidor
+
+La opción ManagementPro (Cliente), instalará el sistema en su modalidad estación de trabajo en el PC.
+La opción ManagementPro (Servidor), instalará el sistema en su modalidad servidor en el PC.
+La opción Completa / Personalizada permite seleccionar los componentes que desean instalar.
+
+Nos enseña una ventana en donde podemos seleccionar los componentes que se desea instalar, para continuar damos clic en Siguiente.
+
+8-Manual de Instalación ManagementPro modo Servidor
+
+
+Una vez seleccionada la opción a instalar aparecerá la ventana de Preparación para instalar el sistema, la cual muestra el tipo de instalación, la carpeta de destino y la información del usuario. Para continuar presione clic en el botón Instalar.
+
+9-Manual de Instalación ManagementPro modo Servidor
+
+
+Posteriormente aparece la ventana Instalando ManagementPro donde se muestra el estado de la instalación del sistema.
+
+10-Manual de Instalación ManagementPro modo Servidor
+
+
+Durante el proceso de instalación se creará la base de datos principal llamada EMPRESAS, en la cual se almacena la información de seguridad del sistema (Perfiles, Operadores, Permisos).
+
+11-Manual de Instalación ManagementPro modo Servidor
+
+
+Una vez que ha finalizado de instalar todos los archivos, aparecerá la siguiente ventana.
+
+12-Manual de Instalación ManagementPro modo Servidor
+Presione clic en el botón Finalizar para terminar con la instalación.
+
+
+Activar ManagementPro
+Una vez que ha finalizado la instalación vamos a abrir el programa Admin
+.
+
+13-<b>Activar ManagementPro</b><br>
+Tutoriales
+Preguntas frecuentes
+Manual de Instalación ManagementPro modo Servidor
+1-Manual de Instalación ManagementPro modo Servidor
+
+¡Bienvenido! Este documento explica el procedimiento para instalar el ManagementPro en el servidor.
+
+Este manual tiene como objetivo guiar al usuario paso a paso en el proceso de instalación del ManagementPro,
+dicha operación esta divida en 3 secciones:
+
+Preparar el equipo. En esta sección se muestran los requisitos necesarios para realizar una instalación exitosa del sistema.
+Instalar ManagementPro. En esta sección se muestran los pasos que se deben ejecutar para instalar el ManagementPro en el PC.
+Activar ManagementPro. En esta sección se muestran los pasos a seguir para activar el producto adquirido.
+
+Al final de este manual se le proporciona un video de apoyo sobre la preparación del equipo y la instalacion de ManagementPro.
+
+Requerimientos mínimos
+Espacio libre en disco duro mínimo 15GB
+Memoria RAM mínimo 3 GB en sistemas de 32 Bits y 6 GB en sistemas con 64 Bits
+Procesador mínimo Pentium
+Sistema operativo Windows, mínimo Windows 7 Professional SP1 32 bits
+Contar con un usuario que tenga permisos de Administrador
+Descargar el instalador del sitio de ManagementPro
+
+Preparar el Equipo
+Cambiar la configuración de control de cuenta de usuario.
+Instalar Internet Información Services (IIS).
+Instalar Microsoft SQL Server.
+Configuración Firewall de Windows
+
+Después de realizar la instalación de los programas y componentes de Windows que son necesarios para ejecutar el sistema de ManagementPro, ahora realizaremos la instalación de este.
+
+Instalar ManagementPro
+Ir a la ruta en donde se encuentra el instalador y dar clic derecho ejecutar como Administrador. Para efectos de este manual lo tenemos en el escritorio.
+
+2-<br><b>Instalar ManagementPro</b><br>
+
+Al iniciar la instalación nos arroja el Wizard de Instalación, en el que nos indica que se está preparando la instalación y debemos esperar unos minutos.
+
+3-<br>
+
+
+
+Al concluir el wizard en el que nos indica que se está preparando para la instalación nos sale una ventana de bienvenida, damos clic en Siguiente para continuar con la instalación.
+
+4-Manual de Instalación ManagementPro modo Servidor
+
+
+
+En la siguiente ventana capture los datos del usuario y la organización en los campos correspondientes, para continuar presione clic en el botón Siguiente.
+
+5-Manual de Instalación ManagementPro modo Servidor
+
+
+
+Posteriormente aparecerá la ventana Carpeta de destino donde se guardaran los archivos de instalación del sistema, si desea modificar la carpeta de destino lo puede realizar presionando el botón Cambiar (Nota: se recomienda utilizar la dirección predeterminada) para continuar presione el botón Siguiente.
+
+6-Manual de Instalación ManagementPro modo Servidor
+
+
+
+Ahora se mostrara la ventana de Tipo de instalación esta nos permite seleccionar alguno de los tres tipos de instalación. En este caso seleccionaremos la primera Opción y damos clic en Siguiente.
+
+7-Manual de Instalación ManagementPro modo Servidor
+
+La opción ManagementPro (Cliente), instalará el sistema en su modalidad estación de trabajo en el PC.
+La opción ManagementPro (Servidor), instalará el sistema en su modalidad servidor en el PC.
+La opción Completa / Personalizada permite seleccionar los componentes que desean instalar.
+
+Nos enseña una ventana en donde podemos seleccionar los componentes que se desea instalar, para continuar damos clic en Siguiente.
+
+8-Manual de Instalación ManagementPro modo Servidor
+
+
+Una vez seleccionada la opción a instalar aparecerá la ventana de Preparación para instalar el sistema, la cual muestra el tipo de instalación, la carpeta de destino y la información del usuario. Para continuar presione clic en el botón Instalar.
+
+9-Manual de Instalación ManagementPro modo Servidor
+
+
+Posteriormente aparece la ventana Instalando ManagementPro donde se muestra el estado de la instalación del sistema.
+
+10-Manual de Instalación ManagementPro modo Servidor
+
+
+Durante el proceso de instalación se creará la base de datos principal llamada EMPRESAS, en la cual se almacena la información de seguridad del sistema (Perfiles, Operadores, Permisos).
+
+11-Manual de Instalación ManagementPro modo Servidor
+
+
+Una vez que ha finalizado de instalar todos los archivos, aparecerá la siguiente ventana.
+
+12-Manual de Instalación ManagementPro modo Servidor
+Presione clic en el botón Finalizar para terminar con la instalación.
+
+
+Activar ManagementPro
+Una vez que ha finalizado la instalación vamos a abrir el programa Admin
+.
+
+13-<b>Activar ManagementPro</b><br>
+
+
+Nos mostrará una ventana donde nos indica que no contamos con una licencia válida, para continuar con la activación presionamos el botón Sí.
+
+14-Manual de Instalación ManagementPro modo Servidor
+
+
+Se abrirá un navegador de internet y nos mostrará una pagina web donde nos solicita ingresar a la comunidad de ManagementPro, en caso de contar con usuario y contraseña deberemos ingresarlos. En caso de ser un nuevo usuario, tendremos que registrarnos para continuar.
+
+15-Manual de Instalación ManagementPro modo Servidor
+
+
+Despues de Ingresar con nuestro usuario y contraseña, el sistema nos pedirá confirmar si hemos ingresado con el usuario correcto, por lo que presionaremos el botón Si soy yo, continuar.
+
+16-Manual de Instalación ManagementPro modo Servidor
+
+
+Posteriormente el sistema nos solicitará el nombre de la Empresa, por lo que deberás ingresar el nombre de tu empresa o negocio e indicar el número de trabajadores con los que cuenta el negocio. y a continuación presionaremos el botón Continuar.
+
+17-Manual de Instalación ManagementPro modo Servidor
+
+
+En la siguiente pantalla el sistema nos va a indicar el id del sistema que se le asignó a nuestro servidor y un nombre de nuestro equipo de computo, por lo que solo deberemos presionar el botón Obtener mi licencia.
+
+18-Manual de Instalación ManagementPro modo Servidor
+
+
+Después de generarse las licencias el sistema nos indicara que ya contamos con licencias, por lo que debemos cerrar el navegador de internet.
+
+19-Manual de Instalación ManagementPro modo Servidor
+Cuando cerramos el navegador de internet, nos mostrará la pantalla de Administrar Licencias, en esta pantalla vamos a presionar el botón Actualizar para descargar la licencia.
+
+20-Manual de Instalación ManagementPro modo Servidor
+
+
+Una vez que se ha descargado las licencias veremos el listado de las licencias que se han asignado a nuestro negocio. Por lo que cerraremos la pantalla Administrar licencias.
+
+21-Manual de Instalación ManagementPro modo Servidor
+
+Una vez realizada la instalación del sistema consulte el tema: Crear una base de datos.
+
+
+VIDEO
+
+
+¿Te resulto útil esta información?42% de las personas consideraron que fue útil.
+
+
+
+Iniciar una conversación en el foro de soporte de nuestra comunidad
+
+
+< Ver temas relacionadosTema siguiente >
+Más recursos
+
+Site
+Conoce nuestras diferentes Soluciones de Software. ¡Contáctanos!
+
+
+Blog
+Artículos, noticias y consejos útiles sobre tecnología y Sistemas Administrativos.
+
+
+
+Community
+Plataforma con múltiples recursos de ayuda y herramientas de soporte.
+
+
+
+
+Contacta a un experto
+¿Como podemos ayudarte?
+
+Optén soporte personalizado por télefono o chat.
+
+
+
+
+Copyright 2025 | ManagementPro Inc | 12 South 1st. Street Ste. 1100, San Jose, CA, 95113   Sitemap￼Enter
+
+Nos mostrará una ventana donde nos indica que no contamos con una licencia válida, para continuar con la activación presionamos el botón Sí.
+
+14-Manual de Instalación ManagementPro modo Servidor
+
+
+Se abrirá un navegador de internet y nos mostrará una pagina web donde nos solicita ingresar a la comunidad de ManagementPro, en caso de contar con usuario y contraseña deberemos ingresarlos. En caso de ser un nuevo usuario, tendremos que registrarnos para continuar.
+
+15-Manual de Instalación ManagementPro modo Servidor
+
+
+Despues de Ingresar con nuestro usuario y contraseña, el sistema nos pedirá confirmar si hemos ingresado con el usuario correcto, por lo que presionaremos el botón Si soy yo, continuar.
+
+16-Manual de Instalación ManagementPro modo Servidor
+
+
+Posteriormente el sistema nos solicitará el nombre de la Empresa, por lo que deberás ingresar el nombre de tu empresa o negocio e indicar el número de trabajadores con los que cuenta el negocio. y a continuación presionaremos el botón Continuar.
+
+17-Manual de Instalación ManagementPro modo Servidor
+
+
+En la siguiente pantalla el sistema nos va a indicar el id del sistema que se le asignó a nuestro servidor y un nombre de nuestro equipo de computo, por lo que solo deberemos presionar el botón Obtener mi licencia.
+
+18-Manual de Instalación ManagementPro modo Servidor
+
+és de generarse las licencias el sistema nos indicara que ya contamos con licencias, por lo que debemos cerrar el navegador de internet.
+
+19-Manual de Instalación ManagementPro modo Servidor
+Cuando cerramos el navegador de internet, nos mostrará la pantalla de Administrar Licencias, en esta pantalla vamos a presionar el botón Actualizar para descargar la licencia.
+
+20-Manual de Instalación ManagementPro modo Servidor
+
+
+Una vez que se ha descargado las licencias veremos el listado de las licencias que se han asignado a nuestro negocio. Por lo que cerraremos la pantalla Administrar licencias.
+
+21-Manual de Instalación ManagementPro modo Servidor
+
+Una vez realizada la instalación del sistema consulte el tema: Crear una base de datos.
+
+
+VIDEO
+
+
+¿Te resulto útil esta información?42% de las personas consideraron que fue útil.
+
+
+
+Iniciar una conversación en el foro de soporte de nuestra comunidad
+
+
